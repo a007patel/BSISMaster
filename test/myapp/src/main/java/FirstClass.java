@@ -1,4 +1,6 @@
 
 public class FirstClass {
-abvc
+	public static void main(String arg[]){
+		
+	}
 }
